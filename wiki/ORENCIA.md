@@ -7,7 +7,7 @@ type: [Antagonist]
 category: [Autoimmunity]
 year: [2005]
 patent: []
-bla: []
+bla: [125118]
 categories: [CATEGORYTAGS]
 format: [FORMAT]
 resource: true

@@ -3,11 +3,11 @@ layout: default
 title: MYLOTARG
 medname: Gemtuzumab ozogamicin
 target: [CD33]
-type: [ADC ,  ADC]
+type: [ADC ,  ADCC]
 category: [Cancer]
 year: [2000]
 patent: []
-bla: []
+bla: [761060]
 categories: [CATEGORYTAGS]
 format: [FORMAT]
 resource: true

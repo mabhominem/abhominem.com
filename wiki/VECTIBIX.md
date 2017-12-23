@@ -7,7 +7,7 @@ type: [Antagonist]
 category: [Cancer]
 year: [2006]
 patent: []
-bla: []
+bla: [125147]
 categories: [CATEGORYTAGS]
 format: [FORMAT]
 resource: true

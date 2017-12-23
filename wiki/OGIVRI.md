@@ -2,7 +2,7 @@
 layout: default
 title: OGIVRI
 medname: Trastuzumab dkst
-target: [HER2]
+target: [CD340(HER2)]
 type: [Antagonist]
 category: [Cancer]
 year: [2017]

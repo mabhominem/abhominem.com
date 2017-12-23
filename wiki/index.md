@@ -96,7 +96,7 @@ title: An Antibody Enclycopedia
 | [TREMFYA](../wiki/TREMFYA) | Guselkumab | [IL-23α](../wiki/IL-23α) | [Autoimmunity](../wiki/indication_Autoimmunity) | 2017 |
 | [FASENRA](../wiki/FASENRA) | Benralizumab | [IL-5Rα](../wiki/IL-5Rα) | [Autoimmunity](../wiki/indication_Autoimmunity) | 2017 |
 | [HEMLIBRA](../wiki/HEMLIBRA) | Emicizumab kxwh | [FactorIXa+FactorX](../wiki/FactorIXa+FactorX) | [Hemophilia](../wiki/indication_Hemophilia) | 2017 |
-| [OGIVRI](../wiki/OGIVRI) | Trastuzumab dkst | [HER2](../wiki/HER2) | [Cancer](../wiki/indication_Cancer) | 2017 |
+| [OGIVRI](../wiki/OGIVRI) | Trastuzumab dkst | [CD340(HER2)](../wiki/CD340(HER2)) | [Cancer](../wiki/indication_Cancer) | 2017 |
 | [IXIFI](../wiki/IXIFI) | Infliximab qbtx | [TNFα](../wiki/TNFα) | [Autoimmunity](../wiki/indication_Autoimmunity) | 2017 |
 | [](../wiki/) |  | [](../wiki/) | [](../wiki/indication_) |  |
 

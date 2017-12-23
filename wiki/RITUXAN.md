@@ -7,7 +7,7 @@ type: [ADCC]
 category: [Autoimmunity ,  Cancer]
 year: [1997]
 patent: []
-bla: []
+bla: [103705]
 categories: [CATEGORYTAGS]
 format: [FORMAT]
 resource: true
