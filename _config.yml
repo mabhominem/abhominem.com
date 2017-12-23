@@ -2,6 +2,7 @@ name: Ab Hominem
 title: Ab Hominem
 url: AbHominem.com
 markdown: kramdown
+google_analyics: UA-111536523-1
 permalink: /wiki/:title
 gem:
   - jekyll-seo-tag
