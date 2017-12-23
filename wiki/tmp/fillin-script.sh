@@ -2,6 +2,7 @@
 # fill in script, place in tmp directory to generate new files, or in wiki directory to edit old files (be sure to comment out cp line if wiki directory)
 ##update csv files
 curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vSjdP9bfkGE2foDnasMPqgIZ_kYU7imYBuZwHSEuLE-gHF2GQx3rHdYXOy_tKXUDt0aPuItdv11CteB/pub?gid=421712873&single=true&output=csv" > mablist.csv
+
 curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vSjdP9bfkGE2foDnasMPqgIZ_kYU7imYBuZwHSEuLE-gHF2GQx3rHdYXOy_tKXUDt0aPuItdv11CteB/pub?gid=886389908&single=true&output=csv" > tablemd.csv
 
 curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vSjdP9bfkGE2foDnasMPqgIZ_kYU7imYBuZwHSEuLE-gHF2GQx3rHdYXOy_tKXUDt0aPuItdv11CteB/pubchart?oid=1360516766&format=image" > ../img/mabchart.png
